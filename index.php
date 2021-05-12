@@ -6,7 +6,7 @@ include_once 'consultas.php' ;
 <!DOCTYPE html>
 <html lang="es">
     <head>
-		<title>ESTA ESTA ESCRITO POR WILLY Sateclima S.L. - Alpedrete - Tel. <?php echo $telefono ?></title>
+		<title>ESTA ESTA ESCRITO POR WILLY v2 Sateclima S.L. - Alpedrete - Tel. <?php echo $telefono ?></title>
 		<meta name="description" content="Sateclima. Servicio técnico oficial en Madrid.">
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
