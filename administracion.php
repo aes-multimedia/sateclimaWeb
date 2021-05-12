@@ -224,6 +224,7 @@ include_once 'consultas.php' ;
                         <input name="input_name" id="file" type="file" accept="image/png, .jpeg, .jpg" onchange="this.form.submit()"/>
                     </form>
                 </td>
+				<!-- Editar borrado --> 
                 <td>
                     <form action="borrar.php" method="POST">
                         <label for="delete">
