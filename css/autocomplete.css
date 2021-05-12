@@ -1,0 +1,23 @@
+.autocomplete-suggestions {
+	margin-top: 10px;
+	background-color: #fff;
+	border: 1px solid #782634;
+	max-height: none !important;
+}
+
+
+.autocomplete-no-suggestion,
+.autocomplete-suggestion {
+	padding: 5px;
+	background-color: #fff;
+}
+
+.autocomplete-suggestion:nth-child( 2n ) {
+	background-color: #eee;
+}
+
+.autocomplete-suggestion:hover {
+	cursor: pointer;
+	background-color: #89414d;
+	color: #fff;
+}

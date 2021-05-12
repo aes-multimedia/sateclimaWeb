@@ -1,0 +1,26 @@
+#barraaceptacion {
+	display:none;
+	position:fixed;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	width:100%;
+	text-align:center;
+	height: auto;
+	color: #fff;
+	z-index: 99999;
+}
+
+.innercook {
+	width:100%;
+	position:absolute;
+	padding:5px;
+	font-family:verdana;
+	font-size:12px;
+	bottom:0;
+	float: left;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.innercook a.ok {padding:4px;color:#00ff2e;text-decoration:none;}
+.innercook a.info {padding-left:5px;text-decoration:none;color:#faff00;}

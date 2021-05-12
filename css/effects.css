@@ -1,0 +1,147 @@
+.effect-fade, .effect-translation {
+  transition: all .75s ease-in-out .25s; }
+
+.effect-fade {
+  opacity: 0; }
+  .effect-fade.effect-on {
+    opacity: 1; }
+.effect-translate {
+  visibility: hidden;
+  transform: translateY(-100%); }
+  .effect-translate.effect-top {
+    transform: translateY(-100%); }
+  .effect-translate.effect-right {
+    transform: translateX(100%); }
+  .effect-translate.effect-bottom {
+    transform: translateY(100%); }
+  .effect-translate.effect-left {
+    transform: translateX(-100%); }
+  .effect-translate.effect-top.effect-left {
+    transform: translateY(-100%) translateX(-100%); }
+  .effect-translate.effect-top.effect-right {
+    transform: translateY(-100%) translateX(100%); }
+  .effect-translate.effect-bottom.effect-left {
+    transform: translateY(100%) translateX(-100%); }
+  .effect-translate.effect-bottom.effect-right {
+    transform: translateY(100%) translateX(100%); }
+  .effect-translate.effect-on {
+    visibility: visible;
+    transform: translateX(0) translateY(0) translateZ(0); }
+.effect-fastest {
+  transition-duration: .25s; }
+.effect-fast {
+  transition-duration: .5s; }
+.effect-slow {
+  transition-duration: .75s; }
+.effect-slowest {
+  transition-duration: 1s; }
+.effect-duration-100 {
+  transition-duration: .1s; }
+.effect-duration-150 {
+  transition-duration: .15s; }
+.effect-duration-200 {
+  transition-duration: .2s; }
+.effect-duration-250 {
+  transition-duration: .25s; }
+.effect-duration-300 {
+  transition-duration: .3s; }
+.effect-duration-350 {
+  transition-duration: .35s; }
+.effect-duration-400 {
+  transition-duration: .4s; }
+.effect-duration-450 {
+  transition-duration: .45s; }
+.effect-duration-500 {
+  transition-duration: .5s; }
+.effect-duration-550 {
+  transition-duration: .55s; }
+.effect-duration-600 {
+  transition-duration: .6s; }
+.effect-duration-650 {
+  transition-duration: .65s; }
+.effect-duration-700 {
+  transition-duration: .7s; }
+.effect-duration-750 {
+  transition-duration: .75s; }
+.effect-duration-800 {
+  transition-duration: .8s; }
+.effect-duration-850 {
+  transition-duration: .85s; }
+.effect-duration-900 {
+  transition-duration: .9s; }
+.effect-duration-950 {
+  transition-duration: .95s; }
+.effect-duration-1000 {
+  transition-duration: 1s; }
+.effect-duration-1250 {
+  transition-duration: 1.25s; }
+.effect-duration-1500 {
+  transition-duration: 1.5s; }
+.effect-duration-1750 {
+  transition-duration: 1.75s; }
+.effect-duration-2000 {
+  transition-duration: 2s; }
+.effect-duration-3000 {
+  transition-duration: 3s; }
+.effect-duration-4000 {
+  transition-duration: 4s; }
+.effect-duration-5000 {
+  transition-duration: 5s; }
+.effect-duration-10000 {
+  transition-duration: 10s; }
+.effect-delay-100 {
+  transition-delay: .1s; }
+.effect-delay-150 {
+  transition-delay: .15s; }
+.effect-delay-200 {
+  transition-delay: .2s; }
+.effect-delay-250 {
+  transition-delay: .25s; }
+.effect-delay-300 {
+  transition-delay: .3s; }
+.effect-delay-350 {
+  transition-delay: .35s; }
+.effect-delay-400 {
+  transition-delay: .4s; }
+.effect-delay-450 {
+  transition-delay: .45s; }
+.effect-delay-500 {
+  transition-delay: .5s; }
+.effect-delay-550 {
+  transition-delay: .55s; }
+.effect-delay-600 {
+  transition-delay: .6s; }
+.effect-delay-650 {
+  transition-delay: .65s; }
+.effect-delay-700 {
+  transition-delay: .7s; }
+.effect-delay-750 {
+  transition-delay: .75s; }
+.effect-delay-800 {
+  transition-delay: .8s; }
+.effect-delay-850 {
+  transition-delay: .85s; }
+.effect-delay-900 {
+  transition-delay: .9s; }
+.effect-delay-950 {
+  transition-delay: .95s; }
+.effect-delay-1000 {
+  transition-delay: 1s; }
+.effect-delay-1250 {
+  transition-delay: 1.25s; }
+.effect-delay-1500 {
+  transition-delay: 1.5s; }
+.effect-delay-1750 {
+  transition-delay: 1.75s; }
+.effect-delay-2000 {
+  transition-delay: 2s; }
+.effect-delay-3000 {
+  transition-delay: 3s; }
+.effect-delay-4000 {
+  transition-delay: 4s; }
+.effect-delay-5000 {
+  transition-delay: 5s; }
+.effect-delay-10000 {
+  transition-delay: 10s; }
+
+/*# sourceMappingURL=effects.css.map */

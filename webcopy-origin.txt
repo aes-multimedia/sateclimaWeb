@@ -1,0 +1,324 @@
+Uri: http://sateclima.estudio447.com/
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\index.htm
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/images/slider/slider1.jpg
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\slider\slider1.jpg
+Content Type: image/jpeg
+
+Uri: http://sateclima.estudio447.com/images/app-logo.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\app-logo.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/ico-logo.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\ico-logo.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,600,600i,700,700i&display=swap
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css.css
+Content Type: text/css
+
+Uri: http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\font-awesome\4.7.0\css\font-awesome.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/bootstrap.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/bootstrap-reset.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\bootstrap-reset.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/effects.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\effects.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/flexslider.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\flexslider.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/slider.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\slider.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/fancybox.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\fancybox.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/navik.menu.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\navik.menu.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\ajax\libs\malihu-custom-scrollbar-plugin\3.1.5\jquery.mCustomScrollbar.min.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/autocomplete.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\autocomplete.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/stylecss.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\stylecss.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/cookies.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\cookies.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/css/preloader.css
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\css\preloader.css
+Content Type: text/css
+
+Uri: http://sateclima.estudio447.com/es/
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\index.htm
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/es/viesmann.html
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\viesmann.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/es/wolf.html
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\wolf.html
+Content Type: text/html
+
+Uri: http://sateclima.gestnet.es/main.php
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\main.php.html
+Content Type: text/html
+
+Uri: https://mail.ionos.es/
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\index-1.htm
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/es/contacto.html
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\contacto.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/contacto.html
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\contacto.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/es/aviso-legal.html
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\aviso-legal.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/es/politica-privacidad.html
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\politica-privacidad.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/es/politica-cookies.html
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\politica-cookies.html
+Content Type: text/html
+
+Uri: https://www.estudio447.com/
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\index-2.htm
+Content Type: text/html
+
+Uri: https://use.fontawesome.com/releases/v5.6.1/js/all.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\releases\v5.6.1\js\all.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-150283758-1
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\ajax\libs\jquery\1.12.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://sateclima.estudio447.com/js/slider/jquery.flexslider.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\slider\jquery.flexslider.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/slider/modernizr.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\slider\modernizr.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/images/logo-sateclima.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\logo-sateclima.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/icons/ico-phone.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\icons\ico-phone.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/icons/ico-mail.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\icons\ico-mail.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/workers/sateclima-viesmann.jpg
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\workers\sateclima-viesmann.jpg
+Content Type: image/jpeg
+
+Uri: http://sateclima.estudio447.com/images/workers/sateclima-wolf.jpg
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\workers\sateclima-wolf.jpg
+Content Type: image/jpeg
+
+Uri: http://sateclima.estudio447.com/images/footer/logo-estudio447.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\footer\logo-estudio447.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/js/bootstrap.min.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/main.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\main.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/navik.menu.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\navik.menu.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/jquery.mCustomScrollbar.concat.min.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/jquery.fancybox.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: http://sateclima.estudio447.com/js/jquery.nysm.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\jquery.nysm.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/effects.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\effects.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/jquery.reset.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\jquery.reset.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyB45EkI6qSrOX4t5e2b7e8bZLngl5ht6gY&callback=InitGoogleMaps
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\maps\api\js
+Content Type: text/javascript
+
+Uri: http://sateclima.estudio447.com/js/jquery.touchSwipe.min.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\jquery.touchSwipe.min.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/responsive_bootstrap_carousel.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\responsive_bootstrap_carousel.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/ancla.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\ancla.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/step-carousel.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\step-carousel.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/js/cookies.js
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\js\cookies.js
+Content Type: application/javascript
+
+Uri: http://sateclima.estudio447.com/themes/golbai/images/carousel/ico-arrow-left.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\themes\golbai\images\carousel\ico-arrow-left.png.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/themes/golbai/images/carousel/ico-arrow-right.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\themes\golbai\images\carousel\ico-arrow-right.png.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/images/ico-quote.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\ico-quote.png.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sateclima.estudio447.com/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sateclima.estudio447.com/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\fonts\glyphicons-halflings-regular.woff2
+Content Type: 
+
+Uri: http://sateclima.estudio447.com/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: http://sateclima.estudio447.com/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/font-sfnt
+
+Uri: http://sateclima.estudio447.com/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://sateclima.estudio447.com/images/slider/ico-arrow-back.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\slider\ico-arrow-back.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/slider/ico-arrow-next.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\slider\ico-arrow-next.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/menu/overlay-menu-bg.jpg
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\menu\overlay-menu-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://sateclima.estudio447.com/images/icons/ico-check.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\icons\ico-check.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/icons/ico-box.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\icons\ico-box.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/logo-background.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\logo-background.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/empresa/hogar.jpg
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\empresa\hogar.jpg
+Content Type: image/jpeg
+
+Uri: http://sateclima.estudio447.com/images/icons/ico-quotes.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\icons\ico-quotes.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/empresa/equipo-jimenenez-bermejo-abogados.jpg
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\empresa\equipo-jimenenez-bermejo-abogados.jpg
+Content Type: image/jpeg
+
+Uri: http://sateclima.estudio447.com/images/wolf/wolf-jimenez-bermejo-abogados.jpg
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\wolf\wolf-jimenez-bermejo-abogados.jpg
+Content Type: image/jpeg
+
+Uri: http://sateclima.estudio447.com/images/timeshare/timeshare-spain-jimenezbermejoabogados.jpg
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\timeshare\timeshare-spain-jimenezbermejoabogados.jpg
+Content Type: image/jpeg
+
+Uri: http://sateclima.estudio447.com/es/MENU_AREAS_SOCIETARIO_LINK
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\MENU_AREAS_SOCIETARIO_LINK.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/es/MENU_AREAS_CIVIL_LINK
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\MENU_AREAS_CIVIL_LINK.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/es/MENU_AREAS_PENAL_LINK
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\es\MENU_AREAS_PENAL_LINK.html
+Content Type: text/html
+
+Uri: http://sateclima.estudio447.com/images/icons/ico-derecho-societario.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\icons\ico-derecho-societario.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/icons/ico-derecho-civil.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\icons\ico-derecho-civil.png
+Content Type: image/png
+
+Uri: http://sateclima.estudio447.com/images/icons/ico-derecho-penal.png
+File Name: C:\Users\Sala2\Downloads\sateclima.estudio447.com\images\icons\ico-derecho-penal.png
+Content Type: image/png
+

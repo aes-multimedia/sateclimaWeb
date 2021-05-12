@@ -1,0 +1,38 @@
+main{
+   background-color: ghostwhite;
+   margin-top: 70px;
+}
+
+.section_administracion{
+    
+}
+
+.tabla_datos{
+    width: 70%;
+    margin: 50px auto;
+}
+
+.tabla_datos th, .tabla_datos td{
+    border: 1px solid black;
+    padding: 0px;
+    text-align: center;
+}
+
+.tabla_datos img{
+    height: 100px;
+}
+
+/* .tabla_datos td:nth-child(3){
+        
+} */
+
+.tabla_datos label {
+    cursor: pointer;
+    border: 1px solid #939393;
+    padding: 1px 6px;
+    background-color: #efefef;
+  }
+
+  .tabla_datos input {
+      display: none;
+  }
